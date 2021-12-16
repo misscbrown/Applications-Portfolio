@@ -19,7 +19,16 @@ section {
     width: 400px;
 }
 
+.example1 {
+    height: 500px;
+    width: 865px;
+}
 
+.example-app {
+    height: 300px;
+    width: 430px;
+
+}
 
 /* doesn't work right
 div.gallery {
