@@ -14,6 +14,11 @@ section {
     border-bottom: 5px solid rgb(100, 0, 139);
 }
 
+.cbrown {
+    height: 300px;
+    width: 400px;
+}
+
 
 
 /* doesn't work right
