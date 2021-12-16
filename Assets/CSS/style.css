@@ -8,6 +8,14 @@ header {
     border-top: 10px solid rgb(10, 10, 10);
 }
 
+section {
+    width: 70%;
+    margin: 20px auto;
+    border-bottom: 5px solid rgb(100, 0, 139);
+}
+
+
+
 /* doesn't work right
 div.gallery {
     margin: 5px; 
