@@ -19,7 +19,7 @@ section {
     width: 400px;
 }
 
-.example1 {
+/* .example1 {
     height: 500px;
     width: 865px;
 }
@@ -28,7 +28,36 @@ section {
     height: 300px;
     width: 430px;
 
+} */
+
+
+.center-text {
+    position: absolute;
+    top: 50%;
+    bottom: 50%
 }
+
+
+
+.flex-container {
+    display: : flex;
+    flex-wrap: wrap
+}
+
+.flex-item {
+    min-height: 150px;
+    max-height: 150px;
+    padding: 10px ;
+    /* align-items: flex-end; */
+    /* display:flex; */
+    margin: 20px
+}
+/* .flex-item:first-child {
+    max-height: 300px;
+    min-height: 300px;
+    flex-basis: 100%;
+} */
+
 
 /* doesn't work right
 div.gallery {
